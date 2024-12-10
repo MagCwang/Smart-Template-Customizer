@@ -4,6 +4,7 @@ This project is a simple prototype for a "Smart Template Customizer" tool. Users
 
 ## Features
 
+- Click "index" in the list to open the web page directly
 - Dropdown menus for selecting business type and design style
 - A button to apply changes and display the selections
 
@@ -11,4 +12,4 @@ This project is a simple prototype for a "Smart Template Customizer" tool. Users
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/smart-template-customizer.git
+   git clone https://github.com/MagCwang/Smart-Template-Customizer.git
